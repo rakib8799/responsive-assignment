@@ -1,0 +1,9 @@
+#header,
+#section-1 {
+    background: #FFFBF0;
+}
+
+.negative-margin {
+    margin-top: -.4rem;
+    margin-bottom: -1rem;
+}
